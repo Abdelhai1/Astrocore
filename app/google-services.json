@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680920839854",
+    "project_id": "nasahack-b98d5",
+    "storage_bucket": "nasahack-b98d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680920839854:android:9ef3b8639dc502c3cc5f3f",
+        "android_client_info": {
+          "package_name": "com.example.astrocore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTyUCSjeJyU-FscqqEDC7zBOTWZl1_OSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

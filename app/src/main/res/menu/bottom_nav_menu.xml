@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Galaxy"
+        android:icon="@drawable/galaxy_background"
+        android:title="Galaxy" />
+
+    <item
+        android:id="@+id/Home"
+        android:icon="@drawable/home_button"
+        android:title="Home"
+        />
+
+    <item
+        android:id="@+id/Profile"
+        android:icon="@drawable/achievement_icon"
+        android:title="Profile" />
+
+</menu>
